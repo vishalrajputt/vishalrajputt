@@ -29,5 +29,4 @@ Here is a bit about my interests and how to get in touch:
 
 
 <br></br>
-![Vishal's Github Stats](https://github-readme-stats.vercel.app/api?username=vishalrajputt&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishalrajputt&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="vishalrajputt" /></p><img align="Center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishalrajputt&&theme=tokyonight" alt="vishalrajputt" />
+![Vishal's Github Stats](https://github-readme-stats.vercel.app/api?username=vishalrajputt&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515) <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishalrajputt&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="vishalrajputt" /></p><img align="Center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishalrajputt&&theme=tokyonight" alt="vishalrajputt" />
