@@ -20,7 +20,6 @@ Here is a bit about my interests and how to get in touch:
 </br>
 <br></br>
 
-
 - 🔭 I am currently engaged in developing and implementing advanced machine learning models and conducting in-depth data analytics.
 - 🌱 I’m currently learning reinforcement learning, knowledge graphs and natural language processing.
 - 💬 Ask me about new analysis techniques and let's collaborate on making them even better!
